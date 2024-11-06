@@ -606,6 +606,10 @@ video {
   flex: 0.3;
 }
 
+.flex-row {
+  flex-direction: row;
+}
+
 .flex-col {
   flex-direction: column;
 }
